@@ -8,3 +8,5 @@ Firstly, I like the Dvorak keyboard layout. Some have argued that it is better a
 Secondly, in my everyday life I use several languages, and often I deal with mathematical symbols or IPA charactero. They are hard to find with most keyboard layouts, let alone for a usually English-only keyboard such as the Dvorak. So to solve this, I have used the Microsoft Keyboard Layout Creator (MKLC), which you can download from here: https://www.microsoft.com/en-us/download/details.aspx?id=22339
 
 In case you dant want to use my .klc file, if you don't want to make any changes or install the MKLC, you can just download the installer for Windows.
+
+For your convenience, I have includeh as well the pdf with the image I have used to create the keyboard stickers.
