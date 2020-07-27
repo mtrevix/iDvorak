@@ -67,7 +67,7 @@ For your convenience, I have included as well the pdf with the image I have used
   AltGr+z & Z -> Ζ (U+0396)
   AltGr+z &   ->   (U+0020)
 
-A set of frequently used symbols for the international phonetic alphabet (IPA), using AltGr+v:<br/>
+A set of frequently used symbols for the international phonetic alphabet (IPA), using AltGr+v:
   AltGr+v & a -> ɑ (U+0251)
   AltGr+v & c -> ʔ (U+0294)
   AltGr+v & e -> ə (U+0259)
@@ -104,4 +104,25 @@ A set of frequently used symbols for the international phonetic alphabet (IPA), 
   AltGr+v & X -> ɞ (U+025e)
   AltGr+v & Y -> ʏ (U+028f)
   AltGr+v & Z -> ʤ (U+02a4)
-  AltGr+v &   -> . (U+002e)</code></pre>
+  AltGr+v &   -> . (U+002e)
+
+Planet symbols, using AltGr+m:
+  AltGr+m & S -> ☉ (U+2609)
+  AltGr+m & m -> ☿ (U+263f)
+  AltGr+m & v -> ♀ (U+2640)
+  AltGr+m & e -> ⊕ (U+2295)
+  AltGr+m & l -> ☽ (U+263d)
+  AltGr+m & M -> ♂ (U+2642)
+  AltGr+m & j -> ♃ (U+2643)
+  AltGr+m & s -> ♄ (U+2644)
+  AltGr+m & u -> ⛢ (U+26e2)
+  AltGr+m & n -> ♆ (U+2646)
+  AltGr+m & p -> ♇ (U+2647)
+  AltGr+m & c -> ☄ (U+2604)
+  AltGr+m &   -> ◌ (U+25cc)
+  
+Copyright symbols and kin, usind AltGr-Shift+3:
+  AltGr-Shift+3 & c -> © (U+00a9)
+  AltGr-Shift+3 & r -> ® (U+00ae)
+  AltGr-Shift+3 & t -> ™ (U+2122)
+  AltGr-Shift+3 &   -> © (U+00a9)</code></pre>
