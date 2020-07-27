@@ -14,7 +14,7 @@ For your convenience, I have included as well the pdf with the image I have used
 
 ## Features
 
-(Check also the pdf for keyboard stickers)
+(Check also the pdf for keyboard stickers at iDvorak/images/iDvorak layout for stickers.pdf )
 
 <code><pre>Greek letters, using AltGr+z:
   AltGr+z & a -> α (U+03b1)
