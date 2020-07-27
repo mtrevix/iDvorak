@@ -14,6 +14,7 @@ For your convenience, I have included as well the pdf with the image I have used
 
 ## Features
 
+This is an incomplete list. For the complete list, please check the .klc file.
 (Check also the pdf for keyboard stickers at iDvorak/images/iDvorak layout for stickers.pdf )
 
 <code><pre>Greek letters, using AltGr+z:
